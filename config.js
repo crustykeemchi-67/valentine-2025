@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Gibble <3",
+    valentineName: "Gibble",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "You're the sweetest woman in the world...",
+    pageTitle: "You're the sweetest woman in the world 💞",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -49,19 +49,19 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "YAY!! You make me happiest person in the world! 💋",
-        message: "I love you sooo much, baby!!",
+        title: "YAY!! You make me happiest man in the world! 💋",
+        message: "I love you sooo much, baby!! I'm so blessed to have you as my Valentine for two years in a row!",
         emojis: "💋💋💋💋💋💋"  // These will bounce around
     },
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        backgroundStart: "#660f1e",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#d45b5b",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#dbafaf",     // Button color (should stand out against the background)
+        buttonHover: "#a38484",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#140103"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
