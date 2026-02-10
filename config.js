@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "YAY!! You make me happiest man in the world! 💋",
+        title: "YAY!! You make me happiest man in the world!",
         message: "I love you sooo much, baby!! I'm so blessed to have you as my Valentine for two years in a row!",
-        emojis: "💋💋💋💋💋💋"  // These will bounce around
+        emojis: "🐈🐈‍⬛"  // These will bounce around
     },
 
     // Color scheme for the website
